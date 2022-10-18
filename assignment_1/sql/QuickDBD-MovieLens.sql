@@ -1,12 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/qjAKsR
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
--- Modify this code to update the DB schema diagram.
--- To reset the sample schema, replace everything with
--- two dots ('..' - without quotes).
-
-CREATE TABLE `Movie` (
+﻿CREATE TABLE `Movie` (
     `id` int  NOT NULL ,
     `title` varchar(80)  NOT NULL ,
     `genres` varchar(80)  NOT NULL ,
