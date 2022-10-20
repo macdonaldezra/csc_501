@@ -1,21 +1,45 @@
-LOAD DATA INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/data/ml-latest/movies.csv"
+-- Load movies into Movie table
+LOAD DATA LOCAL
+INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/assignment_1/data/ml-latest/movies.csv" IGNORE
 INTO TABLE Movie
-FIELDS TERMINATED BY ","
-LINES TERMINATED BY "\n"
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS
 (id, title, genres);
 
-LOAD DATA INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/data/ml-latest/ratings.csv" IGNORE
+-- Load all users who have created a rating or a tag
+LOAD DATA LOCAL 
+INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/assignment_1/data/ml-latest/ratings.csv" IGNORE
 INTO TABLE User
-FIELDS TERMINATED BY ","
-LINES TERMINATED BY "\n"
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS
 (id);
 
-LOAD DATA INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/data/ml-latest/tags.csv" IGNORE
+LOAD DATA LOCAL 
+INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/assignment_1/data/ml-latest/tags.csv" IGNORE
+INTO TABLE User
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(id);
+
+LOAD DATA LOCAL 
+INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/assignment_1/data/ml-latest-small/ratings.csv" IGNORE
+INTO TABLE Rating
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(user_id, movie_id, rating, @time)
+SET time = FROM_UNIXTIME(@time);
+
+
+-- Load tags into Tag table
+LOAD DATA LOCAL 
+INFILE "/home/macdonaldezra/Desktop/code/uvic/csci_501/assignment_1/data/ml-latest/tags.csv" IGNORE
 INTO TABLE Tag
-FIELDS TERMINATED BY ","
-LINES TERMINATED BY "\n"
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
 IGNORE 1 ROWS
 (id);
 
