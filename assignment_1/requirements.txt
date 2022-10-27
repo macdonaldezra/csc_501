@@ -216,6 +216,7 @@ wcwidth @ file:///home/macdonaldezra/.cache/pypoetry/artifacts/7d/f4/60/0737157b
 webencodings @ file:///home/macdonaldezra/.cache/pypoetry/artifacts/ed/d4/da/61384706cfac042ba3bd148746d66e50695463993be117c7c8dadeef7a/webencodings-0.5.1-py2.py3-none-any.whl
 Werkzeug==2.2.2
 widgetsnbextension @ file:///home/macdonaldezra/.cache/pypoetry/artifacts/c5/c3/59/05473b8acb8293ab08fd64dbfbd02981a99dd78d29674141e034840692/widgetsnbextension-4.0.3-py3-none-any.whl
+wordcloud==1.8.2.2
 wrapt==1.14.1
 xacro==1.14.13
 zipp @ file:///home/macdonaldezra/.cache/pypoetry/artifacts/08/76/80/787107e554e914dab77a11220c4f7dd7bae5196e44fda08d0e2cfe668f/zipp-3.8.1-py3-none-any.whl
