@@ -1,3 +1,0 @@
-data/** filter=lfs diff=lfs merge=lfs -text
-data/ml-latest/computed-tags.csv filter=lfs diff=lfs merge=lfs -text
-data/ml-latest/indexed-tags.csv filter=lfs diff=lfs merge=lfs -text

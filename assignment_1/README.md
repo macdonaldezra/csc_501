@@ -23,12 +23,3 @@ This project uses Python 3.9. If you do not have Python 3.9 explicitly installed
 ```bash
 pip install -r requirements.txt
 ```
-
-## Git LFS
-
-This project uses Git LFS to store the large data files used in this repository. To install Git LFS, follow the instructions [here](https://git-lfs.github.com).
-To retrieve the remote data used in this project, run the following command:
-
-```bash
-git lfs fetch
-```
