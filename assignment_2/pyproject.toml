@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "assignment-2"
+version = "0.1.0"
+description = "An exploration of the Sakila dataset using Neo4j"
+authors = ["ezrajames <macdonaldezra@gmail.com>"]
+readme = "README.md"
+packages = [{include = "assn_2"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+pandas = "^1.5.2"
+neo4j = "^5.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

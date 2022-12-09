@@ -1,0 +1,600 @@
+,id,country
+0,218,afghanistan
+1,441,algeria
+2,69,algeria
+3,176,algeria
+4,320,american samoa
+5,528,angola
+6,383,angola
+7,381,anguilla
+8,359,argentina
+9,560,argentina
+10,322,argentina
+11,24,argentina
+12,445,argentina
+13,530,argentina
+14,89,argentina
+15,107,argentina
+16,585,argentina
+17,243,argentina
+18,331,argentina
+19,405,argentina
+20,219,argentina
+21,41,armenia
+22,173,austria
+23,159,austria
+24,266,austria
+25,333,azerbaijan
+26,334,azerbaijan
+27,590,bahrain
+28,332,bangladesh
+29,329,bangladesh
+30,21,bangladesh
+31,527,belarus
+32,144,belarus
+33,455,bolivia
+34,431,bolivia
+35,551,brazil
+36,307,brazil
+37,229,brazil
+38,216,brazil
+39,77,brazil
+40,398,brazil
+41,362,brazil
+42,206,brazil
+43,342,brazil
+44,325,brazil
+45,92,brazil
+46,427,brazil
+47,130,brazil
+48,310,brazil
+49,47,brazil
+50,591,brazil
+51,183,brazil
+52,246,brazil
+53,126,brazil
+54,254,brazil
+55,74,brazil
+56,178,brazil
+57,354,brazil
+58,544,brazil
+59,443,brazil
+60,314,brazil
+61,39,brazil
+62,374,brazil
+63,91,brunei
+64,540,bulgaria
+65,215,bulgaria
+66,516,cambodia
+67,228,cambodia
+68,352,cameroon
+69,361,cameroon
+70,476,canada
+71,463,canada
+72,189,canada
+73,410,canada
+74,436,canada
+75,535,chad
+76,45,chile
+77,515,chile
+78,464,chile
+79,538,china
+80,495,china
+81,533,china
+82,197,china
+83,260,china
+84,64,china
+85,466,china
+86,389,china
+87,110,china
+88,313,china
+89,211,china
+90,281,china
+91,552,china
+92,165,china
+93,138,china
+94,384,china
+95,168,china
+96,594,china
+97,595,china
+98,435,china
+99,283,china
+100,151,china
+101,422,china
+102,267,china
+103,569,china
+104,129,china
+105,90,china
+106,37,china
+107,169,china
+108,242,china
+109,496,china
+110,546,china
+111,424,china
+112,485,china
+113,378,china
+114,511,china
+115,249,china
+116,302,china
+117,599,china
+118,442,china
+119,588,china
+120,241,china
+121,67,china
+122,564,china
+123,339,china
+124,272,china
+125,484,china
+126,521,china
+127,154,china
+128,324,china
+129,93,china
+130,514,china
+131,550,china
+132,235,colombia
+133,120,colombia
+134,460,colombia
+135,180,colombia
+136,87,colombia
+137,490,colombia
+138,387,democratic republic of the congo
+139,375,democratic republic of the congo
+140,265,czech republic
+141,437,dominican republic
+142,418,dominican republic
+143,258,dominican republic
+144,589,ecuador
+145,262,ecuador
+146,494,ecuador
+147,559,egypt
+148,233,egypt
+149,491,egypt
+150,134,egypt
+151,423,egypt
+152,119,egypt
+153,444,estonia
+154,392,ethiopia
+155,317,faroe islands
+156,298,finland
+157,402,france
+158,162,france
+159,104,france
+160,35,france
+161,65,french guiana
+162,43,french polynesia
+163,56,french polynesia
+164,584,gambia
+165,114,germany
+166,448,germany
+167,251,germany
+168,196,germany
+169,227,germany
+170,195,germany
+171,201,germany
+172,3,greece
+173,596,greece
+174,207,greenland
+175,26,holy see (vatican city state)
+176,289,hong kong
+177,592,hungary
+178,367,india
+179,297,india
+180,175,india
+181,225,india
+182,534,india
+183,208,india
+184,413,india
+185,379,india
+186,209,india
+187,529,india
+188,15,india
+189,202,india
+190,468,india
+191,167,india
+192,509,india
+193,440,india
+194,121,india
+195,192,india
+196,117,india
+197,370,india
+198,186,india
+199,259,india
+200,412,india
+201,136,india
+202,60,india
+203,32,india
+204,224,india
+205,31,india
+206,492,india
+207,274,india
+208,419,india
+209,271,india
+210,316,india
+211,28,india
+212,59,india
+213,152,india
+214,268,india
+215,300,india
+216,95,india
+217,296,india
+218,421,india
+219,135,india
+220,426,india
+221,78,india
+222,554,india
+223,336,india
+224,358,india
+225,217,india
+226,356,india
+227,238,india
+228,68,india
+229,502,india
+230,287,india
+231,170,india
+232,446,india
+233,231,india
+234,403,india
+235,123,india
+236,508,india
+237,12,india
+238,411,indonesia
+239,239,indonesia
+240,328,indonesia
+241,203,indonesia
+242,153,indonesia
+243,473,indonesia
+244,500,indonesia
+245,542,indonesia
+246,116,indonesia
+247,506,indonesia
+248,372,indonesia
+249,524,indonesia
+250,450,indonesia
+251,458,indonesia
+252,36,iran
+253,10,iran
+254,377,iran
+255,368,iran
+256,459,iran
+257,185,iran
+258,449,iran
+259,279,iran
+260,579,iraq
+261,102,israel
+262,478,israel
+263,315,israel
+264,161,israel
+265,33,italy
+266,439,italy
+267,309,italy
+268,499,italy
+269,541,italy
+270,221,italy
+271,525,italy
+272,574,japan
+273,141,japan
+274,264,japan
+275,194,japan
+276,299,japan
+277,519,japan
+278,240,japan
+279,54,japan
+280,396,japan
+281,391,japan
+282,163,japan
+283,79,japan
+284,547,japan
+285,401,japan
+286,34,japan
+287,531,japan
+288,355,japan
+289,253,japan
+290,53,japan
+291,489,japan
+292,365,japan
+293,404,japan
+294,337,japan
+295,285,japan
+296,11,japan
+297,1,japan
+298,29,japan
+299,385,japan
+300,429,japan
+301,503,japan
+302,147,japan
+303,76,kazakstan
+304,573,kazakstan
+305,193,kenya
+306,363,kenya
+307,234,kuwait
+308,347,latvia
+309,23,latvia
+310,57,liechtenstein
+311,557,lithuania
+312,81,madagascar
+313,166,malawi
+314,171,malaysia
+315,58,malaysia
+316,306,malaysia
+317,486,mexico
+318,414,mexico
+319,84,mexico
+320,578,mexico
+321,587,mexico
+322,247,mexico
+323,482,mexico
+324,467,mexico
+325,323,mexico
+326,575,mexico
+327,451,mexico
+328,364,mexico
+329,150,mexico
+330,582,mexico
+331,108,mexico
+332,581,mexico
+333,369,mexico
+334,488,mexico
+335,177,mexico
+336,343,mexico
+337,570,mexico
+338,115,mexico
+339,353,mexico
+340,273,mexico
+341,319,mexico
+342,425,mexico
+343,133,mexico
+344,454,mexico
+345,288,mexico
+346,465,mexico
+347,38,moldova
+348,543,morocco
+349,40,morocco
+350,22,morocco
+351,257,mozambique
+352,433,mozambique
+353,97,mozambique
+354,256,myanmar
+355,4,myanmar
+356,513,nauru
+357,321,nepal
+358,415,netherlands
+359,137,netherlands
+360,341,netherlands
+361,474,netherlands
+362,184,netherlands
+363,8,new zealand
+364,284,nigeria
+365,409,nigeria
+366,286,nigeria
+367,80,nigeria
+368,198,nigeria
+369,103,nigeria
+370,18,nigeria
+371,277,nigeria
+372,156,nigeria
+373,280,nigeria
+374,250,nigeria
+375,562,nigeria
+376,232,nigeria
+377,157,north korea
+378,9,oman
+379,498,oman
+380,416,pakistan
+381,223,pakistan
+382,20,pakistan
+383,399,pakistan
+384,25,pakistan
+385,226,paraguay
+386,205,paraguay
+387,345,paraguay
+388,304,peru
+389,565,peru
+390,122,peru
+391,597,peru
+392,71,philippines
+393,188,philippines
+394,94,philippines
+395,371,philippines
+396,388,philippines
+397,27,philippines
+398,461,philippines
+399,255,philippines
+400,580,philippines
+401,349,philippines
+402,244,philippines
+403,263,philippines
+404,434,philippines
+405,522,philippines
+406,72,philippines
+407,505,philippines
+408,373,philippines
+409,236,philippines
+410,548,philippines
+411,261,philippines
+412,318,poland
+413,572,poland
+414,128,poland
+415,270,poland
+416,501,poland
+417,571,poland
+418,380,poland
+419,558,poland
+420,360,puerto rico
+421,282,puerto rico
+422,230,romania
+423,563,romania
+424,148,réunion
+425,397,russian federation
+426,55,russian federation
+427,430,russian federation
+428,17,russian federation
+429,106,russian federation
+430,222,russian federation
+431,100,russian federation
+432,301,russian federation
+433,510,russian federation
+434,179,russian federation
+435,295,russian federation
+436,393,russian federation
+437,376,russian federation
+438,311,russian federation
+439,44,russian federation
+440,160,russian federation
+441,346,russian federation
+442,46,russian federation
+443,447,russian federation
+444,48,russian federation
+445,191,russian federation
+446,487,russian federation
+447,567,russian federation
+448,127,russian federation
+449,428,russian federation
+450,350,russian federation
+451,462,russian federation
+452,351,russian federation
+453,326,saint vincent and the grenadines
+454,101,saudi arabia
+455,70,saudi arabia
+456,417,saudi arabia
+457,49,saudi arabia
+458,312,saudi arabia
+459,456,senegal
+460,357,slovakia
+461,125,south africa
+462,132,south africa
+463,555,south africa
+464,471,south africa
+465,19,south africa
+466,109,south africa
+467,432,south africa
+468,338,south africa
+469,407,south africa
+470,145,south africa
+471,83,south africa
+472,88,south korea
+473,99,south korea
+474,237,south korea
+475,536,south korea
+476,245,south korea
+477,52,spain
+478,293,spain
+479,394,spain
+480,469,spain
+481,549,spain
+482,408,sri lanka
+483,395,sudan
+484,50,sudan
+485,66,sweden
+486,61,switzerland
+487,155,switzerland
+488,598,switzerland
+489,75,taiwan
+490,73,taiwan
+491,517,taiwan
+492,576,taiwan
+493,348,taiwan
+494,30,taiwan
+495,5,taiwan
+496,577,taiwan
+497,139,taiwan
+498,586,taiwan
+499,481,tanzania
+500,190,tanzania
+501,220,tanzania
+502,390,thailand
+503,42,thailand
+504,86,thailand
+505,344,tonga
+506,335,tunisia
+507,327,turkey
+508,366,turkey
+509,172,turkey
+510,483,turkey
+511,507,turkey
+512,480,turkey
+513,278,turkey
+514,143,turkey
+515,124,turkey
+516,13,turkey
+517,518,turkey
+518,493,turkey
+519,164,turkey
+520,566,turkey
+521,204,turkey
+522,200,turkmenistan
+523,105,tuvalu
+524,386,ukraine
+525,545,ukraine
+526,131,ukraine
+527,475,ukraine
+528,82,ukraine
+529,187,ukraine
+530,452,united arab emirates
+531,98,united arab emirates
+532,292,united arab emirates
+533,85,united kingdom
+534,142,united kingdom
+535,252,united kingdom
+536,512,united kingdom
+537,583,united kingdom
+538,16,united kingdom
+539,556,united kingdom
+540,477,united kingdom
+541,497,united kingdom
+542,479,united states
+543,305,united states
+544,96,united states
+545,330,united states
+546,537,united states
+547,212,united states
+548,149,united states
+549,526,united states
+550,14,united states
+551,140,united states
+552,182,united states
+553,400,united states
+554,294,united states
+555,420,united states
+556,51,united states
+557,593,united states
+558,561,united states
+559,118,united states
+560,158,united states
+561,504,united states
+562,308,united states
+563,112,united states
+564,6,united states
+565,63,united states
+566,382,united states
+567,181,united states
+568,275,united states
+569,291,united states
+570,457,united states
+571,62,united states
+572,269,united states
+573,2,united states
+574,146,united states
+575,214,united states
+576,248,united states
+577,276,united states
+578,568,venezuela
+579,111,venezuela
+580,113,venezuela
+581,453,venezuela
+582,174,venezuela
+583,539,venezuela
+584,290,venezuela
+585,532,vietnam
+586,199,vietnam
+587,340,vietnam
+588,472,vietnam
+589,520,vietnam
+590,523,vietnam
+591,406,virgin islands
+592,210,yemen
+593,470,yemen
+594,303,yemen
+595,213,yemen
+596,7,yugoslavia
+597,553,yugoslavia
+598,438,zambia
